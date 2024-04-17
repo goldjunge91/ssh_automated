@@ -1,9 +1,10 @@
 # ssh_automated
 
 <details>
-    <summary>
+  <summary>Markdown</summary>
+</details>
 
-
+## Section
 
 > [!NOTE]
 > Essential details that users should not overlook, even when browsing quickly.
