@@ -20,3 +20,6 @@
 
 > [!CAUTION]
 > Possible negative outcomes resulting from an action.
+
+
+https://github.com/lifeparticle/Markdown-Cheatsheet?tab=readme-ov-file
